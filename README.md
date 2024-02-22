@@ -1,6 +1,6 @@
 # Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation [[Paper]](https://arxiv.org/abs/2402.11443)
 
-<img src="https://nanshine-database-1314252170.cos.ap-shanghai.myqcloud.com/img/intro.jpg" style="zoom:18%;" />
+<img src="https://nanshine-database-1314252170.cos.ap-shanghai.myqcloud.com/img/intro.jpg" style="zoom:10%;" />
 
 This repository hosts the codes of our benchmark self-evolving framework. It includes support for a range of datasets and models, allowing for dataset self-evolving and model testing through a simple command-line interface.
 
@@ -91,12 +91,11 @@ For custom-deployed models like LLama and Mistral, specify the `--local_url` par
 
 This study was authored by Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei and Xuanjing Huang. We encourage the use of our code and data in your research and kindly request citation of our paper as follows:
 
-> ```
-> @article{wang2024benchmark,
->   title={Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation},
->   author={Wang, Siyuan and Long, Zhuohan and Fan, Zhihao and Wei, Zhongyu and Huang, Xuanjing},
->   journal={arXiv preprint arXiv:2402.11443},
->   year={2024}
-> }
-> ```
-
+```bibtex
+@article{wang2024benchmark,
+title={Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation},
+author={Wang, Siyuan and Long, Zhuohan and Fan, Zhihao and Wei, Zhongyu and Huang, Xuanjing},
+journal={arXiv preprint arXiv:2402.11443},
+year={2024}
+}
+```
