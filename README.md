@@ -1,6 +1,6 @@
 # Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation [[Paper]](https://arxiv.org/abs/2402.11443)
 
-<img src="https://nanshine-database-1314252170.cos.ap-shanghai.myqcloud.com/img/intro.jpg" style="zoom:10%;" />
+<img src="https://nanshine-database-1314252170.cos.ap-shanghai.myqcloud.com/img/intro.jpg" width="400" />
 
 This repository hosts the codes of our benchmark self-evolving framework. It includes support for a range of datasets and models, allowing for dataset self-evolving and model testing through a simple command-line interface.
 
