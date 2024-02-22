@@ -95,9 +95,9 @@ This study was authored by Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei an
 
 ```bibtex
 @article{wang2024benchmark,
-title={Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation},
-author={Wang, Siyuan and Long, Zhuohan and Fan, Zhihao and Wei, Zhongyu and Huang, Xuanjing},
-journal={arXiv preprint arXiv:2402.11443},
-year={2024}
+  title={Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation},
+  author={Wang, Siyuan and Long, Zhuohan and Fan, Zhihao and Wei, Zhongyu and Huang, Xuanjing},
+  journal={arXiv preprint arXiv:2402.11443},
+  year={2024}
 }
 ```
