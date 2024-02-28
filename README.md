@@ -1,8 +1,5 @@
 # Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation
 
-<p align="center">
-    <img src="https://nanshine-database-1314252170.cos.ap-shanghai.myqcloud.com/img/intro.jpg" width="400" />
-</p>
 
 This repository hosts the codes of our benchmark self-evolving framework. It includes support for a range of datasets and models, allowing for dataset self-evolving and model testing through a simple command-line interface.
 
@@ -86,5 +83,4 @@ python test.py --dataset gsm8k --mode paraphrase --model chatgpt
 This command tests the ChatGPT model with the paraphrased version of the GSM8K dataset.
 
 For custom-deployed models like LLama and Mistral, specify the `--local_url` parameter and implement the `invoke_local_model` method in `utils/call_llm.py`.
-
 
