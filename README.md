@@ -1,4 +1,4 @@
-# Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation [[Paper]](https://arxiv.org/abs/2402.11443)
+# Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation
 
 <p align="center">
     <img src="https://nanshine-database-1314252170.cos.ap-shanghai.myqcloud.com/img/intro.jpg" width="400" />
@@ -88,16 +88,3 @@ This command tests the ChatGPT model with the paraphrased version of the GSM8K d
 For custom-deployed models like LLama and Mistral, specify the `--local_url` parameter and implement the `invoke_local_model` method in `utils/call_llm.py`.
 
 
-
-## Authors and Citation
-
-This study was authored by Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei and Xuanjing Huang. We encourage the use of our code and data in your research and kindly request citation of our paper as follows:
-
-```bibtex
-@article{wang2024benchmark,
-  title={Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation},
-  author={Wang, Siyuan and Long, Zhuohan and Fan, Zhihao and Wei, Zhongyu and Huang, Xuanjing},
-  journal={arXiv preprint arXiv:2402.11443},
-  year={2024}
-}
-```
